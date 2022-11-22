@@ -1,0 +1,92 @@
+/* home page */ 
+/* nav and header */
+header{
+    margin:auto;
+    background-color: #476930;
+    
+    
+    
+}
+header .top-nav{
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+    color: #F1DDDF;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 28px;
+
+}
+header a:hover{
+    text-decoration: underline 5px;
+    text-decoration-color: brown;
+}
+h1{
+    display: inline;
+    color: #F1DDDF;
+}
+#banner{
+    width: auto;
+}
+
+
+/*body */ 
+body{
+    background-color: #86B049;
+    
+}
+img{
+    width: 250px;
+    height: 250px;
+    align-content: center;
+    padding-top: 20px;
+}
+/*index*/
+#center_home{
+    padding-top: 100px;
+    text-align: center;
+    color: #F1DDDF;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+/* fqa */ 
+h3,ul,li{
+    text-align: center;
+    list-style-type: none;
+    color: #F1DDDF;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+
+}
+li{
+    font-size: 20px;
+}
+/* contact */ 
+#form_wrapper{
+    align-items: center;
+}
+#info_contact{
+    float: right;
+    color: #F1DDDF;
+}
+h2{
+    color: #F1DDDF;
+}
+label{
+    color: #F1DDDF;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-size: 20px;
+    
+}
+/* images */
+#image_page_content{
+    margin-right: 100px;
+    align-content: center;
+    
+
+}
+#image_page_content:hover{
+    width: 600px;
+    height: 600px;
+     
+}
